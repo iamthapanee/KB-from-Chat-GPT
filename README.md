@@ -14,8 +14,16 @@
 2. อ่าน [AI Governance](00_AI_GOVERNANCE.md) และ [KB Schema](00_KB_SCHEMA.md) เป็นแบบอ้างอิงด้านบทบาท AI และโครงสร้างเอกสาร
 3. อ่านหัวข้อในสารบัญและตรวจสอบกับเอกสารต้นฉบับฉบับล่าสุดที่เกี่ยวข้องก่อนใช้งาน
 
+## ทะเบียนอ้างอิง
+
+- [Knowledge Inventory](90_REGISTERS/KNOWLEDGE_INVENTORY.md) — KB ID, Domain, Owner, Status และ Sensitivity
+- [Terminology Register](90_REGISTERS/TERMINOLOGY_REGISTER.md) — คำศัพท์ที่ใช้ใน KB
+- [Decision Log](90_REGISTERS/DECISION_LOG.md) — การตัดสินใจเกี่ยวกับโครงสร้าง KB
+
+หัวข้อย่อยแต่ละเรื่องมีไฟล์ของตนเองและเปิดได้จากหน้าหมวดหรือทะเบียน KB ID
+
 ## ที่มาและสถานะ
 
 README นี้ปรับจาก [README ของ Inventory-](https://github.com/wanmaka/Inventory-/blob/main/README.md) ให้ตรงกับโครงสร้างของรีโปนี้ ส่วน AI Governance และ KB Schema คัดลอกจากรีโปต้นทางเพื่อใช้อ้างอิง ชื่อเจ้าของ โครงสร้างเดิม และสถานะในไฟล์อ้างอิงเป็นบริบทของต้นทาง
 
-รีโปนี้เป็น **Private** และแต่ละหมวดอยู่ในสถานะ **สารบัญร่าง**
+รีโปนี้เป็น **Private** และเนื้อหา KB อยู่ในสถานะ **Draft** ระหว่างรอตรวจเทียบเอกสารต้นทาง

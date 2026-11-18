@@ -29,13 +29,19 @@ sensitivity: internal
 
 SOP ระบุวัตถุประสงค์ ขอบเขต ผู้รับผิดชอบ จุดตัดสินใจ จุดประสานงาน และหลักฐาน ส่วน WI อธิบายขั้นตอนทำงานในระบบหรือหน้างาน เช่น Virtual Patrol, CCTV Request และ Access Control ตรวจฉบับและวันที่มีผลก่อนอ้างขั้นตอน
 
+[อ่านข้อมูลนำเข้า ขั้นตอน และจุดตรวจสอบ](07-sop-wi-emergency/WK-OBK-SOP-001.md)
+
 ## WK-OBK-SOP-002 Checklist ตาม Mozart Security Event Type
 
 ใช้ Event Type และ Sub Event Type จากชีท Security เป็นฐานทบทวนว่าเหตุใดต้องมี SOP, WI หรือทั้งคู่ ใช้รายการระดับ Sub Event Type เมื่อวิธีปฏิบัติแตกต่างกัน บันทึกเลขเอกสาร สถานะ และผู้รับผิดชอบเมื่อตรวจยืนยันแล้ว ดู [SOP/WI Checklist](https://chatgpt.com/library?file_id=libfile_bb8e0bd31ec481919f55be7a691a8583&account_id=personal)
 
+[อ่านข้อมูลนำเข้า ขั้นตอน และจุดตรวจสอบ](07-sop-wi-emergency/WK-OBK-SOP-002.md)
+
 ## WK-OBK-SOP-003 ERP, BCP และ DRP
 
 ERP ใช้โครงสร้างตอบสนองเหตุฉุกเฉิน BCP ครอบคลุมการดำเนินงานต่อเนื่อง และ DRP ครอบคลุมการกู้คืนระบบ ใช้เอกสารฉบับที่มีผลของไซต์สำหรับผู้มีอำนาจ สายแจ้งเหตุ และเงื่อนไขเปิดใช้แผน บันทึกผลการซ้อมและงานปรับปรุงหลังการซ้อม
+
+[อ่านข้อมูลนำเข้า ขั้นตอน และจุดตรวจสอบ](07-sop-wi-emergency/WK-OBK-SOP-003.md)
 
 ## แหล่งอ้างอิง
 
