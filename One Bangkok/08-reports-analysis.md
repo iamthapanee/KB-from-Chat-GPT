@@ -1,9 +1,48 @@
+---
+kb_id: WK-OBK-RPT-000
+title: "รายงานและการวิเคราะห์"
+description: "การจัดทำรายงานและวิเคราะห์แนวโน้มจากหลักฐาน"
+owner: "นุ่น"
+last_updated: 2026-11-18
+status: draft
+domain: one_bangkok_soc
+knowledge_type: workflow
+source_authority: working_draft
+sensitivity: internal
+---
+
 # 8. รายงานและการวิเคราะห์
 
-สถานะ **สารบัญร่าง**
+| รายการ | ข้อมูล |
+|---|---|
+| KB ID | `WK-OBK-RPT-000` |
+| คำอธิบาย | การจัดทำรายงานและวิเคราะห์แนวโน้มจากหลักฐาน |
+| เจ้าของข้อมูล | นุ่น |
+| อัปเดตล่าสุด | 18 พฤศจิกายน 2026 |
+| สถานะ | ร่าง (Draft) |
 
-## หัวข้อที่มีข้อมูลอ้างอิง
+## ขอบเขตการใช้
 
-Daily / Weekly / Monthly Report, Weekly Highlights พร้อมวิดีโอและแผนผัง, แนวโน้มตาม Location และ Event Type, Traffic Congestion, Wrong Direction, Intrusion, Blacklist / Whitelist และ LPR
+ใช้เป็นบริบทสำหรับ Claude และใช้ตรวจหัวข้อที่ต้องอ้างอิงต่อ ขั้นตอนและเกณฑ์ปฏิบัติงานจริงอ้างอิงเอกสารหรือไฟล์ฉบับที่นุ่นยืนยันล่าสุดตามขอบเขตงาน
 
-[กลับไปยังสารบัญหมวด](README.md)
+## WK-OBK-RPT-001 Daily, Weekly และ Monthly Report
+
+รายงานรายวันสรุปเหตุเด่นและงานค้าง รายงานรายสัปดาห์ใช้ช่วงอาทิตย์–เสาร์ตาม Mozart Pilot และเปรียบเทียบช่วงที่เทียบกันได้ รายงานรายเดือนรวมผลการปฏิบัติงาน Incident Management, SLA, Virtual Patrol, Guard Tour, ปัญหาระบบ และงานติดตาม ใช้เทมเพลตฉบับที่นุ่นยืนยัน
+
+## WK-OBK-RPT-002 Weekly Highlights
+
+จัดหนึ่งเหตุการณ์ต่อหนึ่งหน้า ระบุ Case ID, CAT, สถานที่, ข้อเท็จจริง ลำดับเริ่มเหตุ–ตอบสนอง–ปิดงาน และผลการดำเนินการ แนบวิดีโอและแผนผังตามสิทธิ์และเทมเพลตของรายงาน
+
+## WK-OBK-RPT-003 Security Trend และการวิเคราะห์รายพื้นที่
+
+ใช้ Security Event Category รวม Sensetime ตามกติกา Pilot และกรอง Muted/Test ตามขอบเขตรายงาน แสดง Actual/False ตามหลักฐาน แยก Traffic Congestion, Vehicle Going Wrong Direction และ Intrusion ตามชื่อในข้อมูลต้นทาง เจาะ Location, Camera ID และจำนวนเหตุ แล้วตรวจยอดรวมก่อนเขียนข้อสรุป
+
+## WK-OBK-RPT-004 Blacklist, Whitelist และ LPR
+
+แยกจำนวนบุคคลไม่ซ้ำ จำนวนครั้งแจ้งเตือนบุคคล จำนวนรถไม่ซ้ำ และจำนวนครั้งแจ้งเตือนรถ ตรวจรายการทดสอบและกติกาตัด False/Muted ตามรายงานก่อนนับ ระบุคีย์ที่ใช้ตัดซ้ำเพื่อให้ตรวจผลได้
+
+## แหล่งอ้างอิง
+
+- สารบัญตั้งต้นของรีโปและ KB ฉบับ 10 พฤศจิกายน 2026
+
+[กลับไปยังสารบัญหมวด](README.md) · [ค้นด้วย KB ID](../CLAUDE_KB_Index.md)
