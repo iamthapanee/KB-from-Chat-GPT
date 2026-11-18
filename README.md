@@ -1,2 +1,21 @@
-# KB-from-Chat-GPT
-Knowledge base index for Claude
+# KB from Chat GPT
+
+คลังองค์ความรู้ของนุ่นสำหรับใช้เป็นบริบทกับ Claude
+
+## โครงสร้างองค์ความรู้
+
+- [One Bangkok](One%20Bangkok/README.md) — หมวด 1–12 สำหรับงาน SOC
+- [Personnal](Personnal/README.md) — หมวด 13 สำหรับบริบทการทำงานกับ AI และโปรเจกต์ส่วนตัว
+- [สารบัญรวมสำหรับ Claude](CLAUDE_KB_Index.md)
+
+## ลำดับการอ่านสำหรับ Claude
+
+1. ใช้ README นี้เพื่อเลือกหมวดที่เกี่ยวข้อง
+2. อ่าน [AI Governance](00_AI_GOVERNANCE.md) และ [KB Schema](00_KB_SCHEMA.md) เป็นแบบอ้างอิงด้านบทบาท AI และโครงสร้างเอกสาร
+3. อ่านหัวข้อในสารบัญและตรวจสอบกับเอกสารต้นฉบับฉบับล่าสุดที่เกี่ยวข้องก่อนใช้งาน
+
+## ที่มาและสถานะ
+
+README นี้ปรับจาก [README ของ Inventory-](https://github.com/wanmaka/Inventory-/blob/main/README.md) ให้ตรงกับโครงสร้างของรีโปนี้ ส่วน AI Governance และ KB Schema คัดลอกจากรีโปต้นทางเพื่อใช้อ้างอิง ชื่อเจ้าของ โครงสร้างเดิม และสถานะในไฟล์อ้างอิงเป็นบริบทของต้นทาง
+
+รีโปนี้เป็น **Private** และแต่ละหมวดอยู่ในสถานะ **สารบัญร่าง**
